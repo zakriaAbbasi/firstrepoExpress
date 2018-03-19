@@ -1,0 +1,22 @@
+{
+  "name": "work",
+  "version": "1.0.0",
+  "description": "This is a test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zakriaAbbasi/FirstRepo.git"
+  },
+  "author": "Zaki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zakriaAbbasi/FirstRepo/issues"
+  },
+  "homepage": "https://github.com/zakriaAbbasi/FirstRepo#readme",
+  "devDependencies": {
+    "express": "^4.16.3"
+  }
+}
