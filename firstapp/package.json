@@ -1,0 +1,14 @@
+{
+  "name": "testpakage",
+  "version": "1.0.0",
+  "description": "firstpakage",
+  "main": "index.js",
+  "scripts": {
+    "test": "abc"
+  },
+  "author": "zaki",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
